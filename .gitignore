@@ -1,0 +1,6 @@
+# Rust specific ignores
+/target
+/Cargo.lock
+
+# Ignore Mac system files
+.DS_Store
