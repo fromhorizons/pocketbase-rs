@@ -2,6 +2,9 @@
 
 A Rust wrapper around [PocketBase Rest API](https://pocketbase.io/)'s REST API.
 
+> [!WARNING]
+> The project has migrated to [Tangled](https://tangled.org/fromhorizons.com/pocketbase-rs).
+
 ## Usage
 
 Most of the methods in this SDK are named and organized as closely as possible to the official PocketBase SDK. Using this Rust crate is generally similar.
